@@ -4,3 +4,5 @@ esto es una prueba
 esta otra prueba sera agregada desde git hub
 
 soy responsable
+
+estas declaraciones son ciertas, manifisto cosas buenas en mi vida, yo soy responsable
